@@ -83,7 +83,6 @@ Maintained and commissioned 60+ West Island cell sites across Montreal. Hands-on
 Colocation Operations — Cologix
 
 Data center fundamentals: cross-connects, power, cooling, customer infrastructure. Where I first learned that the physical layer is the foundation of everything.
-Current Projects
 
 ## Current Projects
 Data Center Site Documentation Lead, building a comprehensive Confluence-based knowledge base for the YUL1 facility: runbooks, SOPs, incident templates, and onboarding guides. Goal: make the site resilient to any single person walking out the door.
@@ -95,6 +94,7 @@ SMB Telecom and Cloud Multi-Service Consultancy offering cloud consulting, struc
 
 AEC in Networking & Cloud Computing — MCIT Montréal
 DEP in Telecommunications — Pearson Electrotechnology Centre
+DES - Rosemount High School
 
 ## Languages
 
