@@ -48,11 +48,17 @@ FL Studio (yes, this is in the stack)
 ## Certifications
 
 AWS Solutions Architect – Associate from Amazon Web Services✅
+
 AWS Cloud Practitioner from Amazon Web Services✅
+
 Azure Administrator (AZ-104) from Microsoft✅
+
 Azure Fundamentals (AZ-900) from Microsoft✅
+
 Google Associate Cloud Engineer from Google Cloud✅
+
 JNCIA-JunosJuniper Networks🔄 In Progress
+
 CDCP🔄 In Progress
 
 ## Career Timeline
