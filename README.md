@@ -41,8 +41,9 @@ Antenna systems, RF fundamentals, site commissioning
 Tools & Platforms
 
 Jira, Confluence (SOP authoring, incident tracking, OKR documentation)
-Linux (Ubuntu 24.04 — daily driver, home lab, gaming rig)
+Linux (Ubuntu/Debian/RHEL)
 Python, Bash, Terraform (infrastructure tooling)
+Windows (and M365 stack)
 FL Studio (yes, this is in the stack)
 
 ## Certifications
