@@ -85,13 +85,10 @@ Data center fundamentals: cross-connects, power, cooling, customer infrastructur
 Current Projects
 
 ## Current Projects
-Data Center Site Documentation Lead
-
-Building a comprehensive Confluence-based knowledge base for the YUL1 facility: runbooks, SOPs, incident templates, and onboarding guides. Goal: make the site resilient to any single person walking out the door.
+Data Center Site Documentation Lead, building a comprehensive Confluence-based knowledge base for the YUL1 facility: runbooks, SOPs, incident templates, and onboarding guides. Goal: make the site resilient to any single person walking out the door.
 (Incorporated)
 
-SMB Telecom and Cloud Multi-Service Consultancy
-My bilingual Montreal-based consulting business offering cloud consulting, structured cabling, and facilities services to SMBs (law firms, clinics, accountants).
+SMB Telecom and Cloud Multi-Service Consultancy offering cloud consulting, structured cabling, and facilities services to SMBs (law firms, clinics, accountants).
 
 ## Education
 
