@@ -6,9 +6,9 @@ Bilingual (EN/FR) technologist with +7 years across carrier wireless, enterprise
 
 ## What I Do
 
-I sit at the intersection of AI infrastructure operations, carrier-grade telecom, and cloud platform engineering. My edge is that I've actually done all three — not as a consultant who read the docs, but as the person on the data center floor, up the tower, or in the CLI fixing live production issues under pressure.
+I sit at the intersection of AI infrastructure operations, carrier-grade telecom, and cloud platform engineering. My edge is that I've actually done all three — not as a consultant who only reads the docs, but as the person on the data center floor, up the mountain at the tower, or in the CLI fixing live production issues under pressure.
 
-I'm currently building toward Technical Account Manager, Solutions Architect, and Customer Success leadership roles, where cross-stack fluency and bilingualism are the differentiators that matter.
+I'm currently building toward a Technical Account Manager/Technical Project Manager, Solutions Architect, or Customer Success leadership role, where cross-stack fluency and bilingualism are the differentiators that matter.
 
 ## Technical Stack
 
