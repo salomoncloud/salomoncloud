@@ -98,7 +98,7 @@ DES - Rosemount High School
 
 ## Languages
 
-LanguageLevelEnglishNative / Full ProfessionalFrenchFull Professional (bilingual)PortugueseConversational
+English and French, Native (bilingual)
 
 ## Beyond the Terminal
 
