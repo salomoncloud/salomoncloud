@@ -1,4 +1,4 @@
-## Hey there! I'm Salomon Fritz Lubin
+## Whats good! I'm Salomon Fritz Lubin
 
 ## AI Infrastructure × Cloud Architecture × Telecom Field Engineering
 
