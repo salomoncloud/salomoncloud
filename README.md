@@ -58,10 +58,6 @@ Azure Fundamentals (AZ-900) from Microsoft✅
 
 Google Associate Cloud Engineer from Google Cloud✅
 
-JNCIA-JunosJuniper Networks🔄 In Progress
-
-CDCP🔄 In Progress
-
 ## Career Timeline
 
 AI Operations Technician — Cerebras Systems
