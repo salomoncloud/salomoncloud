@@ -1,16 +1,31 @@
 ## Hey!! I'm Salomon Fritz Lubin
 
-## AI Infrastructure × Cloud Architecture × Telecom Field Engineering
+## Technical Account Manager | AI Infrastructure × Cloud Architecture × Telecom
 
-Bilingual (EN/FR) technologist with +7 years across carrier wireless, enterprise cloud, and hyperscale AI/HPC infrastructure. I build things that stay up and document things that scale.
+A bilingual technical professional with 7+ years across telecom, data centers, cloud infrastructure and AI/HPC operations. I specialize in connecting deep technical infrastructure knowledge with customer requirements, operational outcomes and architecture decisions.
 
-## What I Do
+## My Journey
 
-I sit at the intersection of AI infrastructure operations, carrier-grade telecom, and cloud platform engineering. My edge is that I've actually done all three — not as a consultant who only reads the docs, but as the person on the data center floor, up the mountain at the tower, or in the CLI fixing live production issues under pressure.
+Physical → Network → Cloud → AI/HPC → Architecture
 
-I'm currently building toward a Technical Account Manager/Technical Project Manager, Solutions Architect, or Customer Success leadership role, where cross-stack fluency and bilingualism are the differentiators that matter.
+## What I bring
+
+🧑‍💼 Technical Account Management
+☁️ Cloud Architecture
+🤖 AI/HPC Infrastructure
+🌐 Carrier & Data Center Networking
+🛠️ Incident & Operations Leadership
+📐 Infrastructure Design
+📚 Documentation & Knowledge Systems
 
 ## Technical Stack
+
+Web Hosting / System Design
+
+CPanel Administration
+Immunify360 Linux security 
+JetBackup data backup and migration
+NGINX load balancing and Apache web servers
 
 AI / HPC Infrastructure
 
@@ -52,7 +67,7 @@ AWS Solutions Architect – Associate from Amazon Web Services✅
 
 AWS Cloud Practitioner from Amazon Web Services✅
 
-Azure Administrator (AZ-104) from Microsoft✅
+Azure Administrator (AZ-104) from Microsoft (expired)
 
 Azure Fundamentals (AZ-900) from Microsoft✅
 
@@ -60,9 +75,13 @@ Google Associate Cloud Engineer from Google Cloud✅
 
 ## Career Timeline
 
+Technical Account Manager — WHC
+
+Helping customers navigate complex technical environments, translating business requirements into technical decisions. I specialize in guiding enterprise/VIP clients in their system design and FinOps best practices.
+
 AI Operations Technician — Cerebras Systems
 
-Supporting one of the most advanced AI/HPC compute deployments in Canada. Currently, I’m deploying massive-scale AI supercomputers at Cerebras Systems. My focus involves 400G/800G/1.6T network fabrics and Linux-based infrastructure automation, with my background bridging the physical and the logical, combining precision optical transport and core network experience from my time at industry leaders like Cologix, Ericsson, and Rogers.
+Supporting one of the most advanced AI/HPC compute deployments in Canada. I deployed massive-scale AI supercomputers at Cerebras Systems. My focus involved 400G/800G/1.6T network fabrics and Linux-based infrastructure automation, with my background bridging the physical and the logical, combining precision optical transport and core network experience from my time at industry leaders like Cologix, Ericsson, and Rogers.
 
 MSC Operations Technician — Ericsson
 
@@ -79,12 +98,6 @@ Maintained and commissioned 60+ West Island cell sites across Montreal. Hands-on
 Colocation Operations — Cologix
 
 Data center fundamentals: cross-connects, power, cooling, customer infrastructure. Where I first learned that the physical layer is the foundation of everything.
-
-## Current Projects
-Data Center Site Documentation Lead, building a comprehensive Confluence-based knowledge base for the YUL1 facility: runbooks, SOPs, incident templates, and onboarding guides. Goal: make the site resilient to any single person walking out the door.
-(Incorporated)
-
-SMB Telecom and Cloud Multi-Service Consultancy offering cloud consulting, structured cabling, and facilities services to SMBs (law firms, clinics, accountants).
 
 ## Education
 
